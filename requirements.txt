@@ -1,0 +1,4 @@
+# from github.com/jimbobbenett
+
+azure-cognitiveservices-speech
+python-dotenv
